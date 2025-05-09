@@ -1,4 +1,4 @@
-# Your Full Name
+# Tyler Johnson
 
 Welcome to my personal website! Here you'll find information about my background, projects, and interests.
 
@@ -7,7 +7,7 @@ Welcome to my personal website! Here you'll find information about my background
 ## About Me
 
 I am an undergraduate student in Civil Engineering at the University of Nebraska-Lincoln.  
-My interests include *data analytics*, and `Python programming`.
+My interests include Python, leadership, mathematics, data analytics
 
 ---
 
@@ -23,9 +23,10 @@ My interests include *data analytics*, and `Python programming`.
 
 ## Projects
 
-### Project 1: Title of Your Project
+### Project #5: Expected Risk of Hurricanes in Southeastern States
 ![Screenshot of project](images/project1.png)  
-*Brief description of the project goes here. Include what tools/languages you used and what the outcome was.*
+This project analyzed the risk expectancy of hurricanes in southeastern states using Python and NRI datasets. Our findings revealed that Florida had the highest risk expectancy score, followed by South Carolina. One surprising result was that South Carolina's risk expectancy was significantly higher than Louisiana's, which contradicted common media and public assumptions about Louisiana's recovery after Hurricane Katrina.
+
 
 [View the code](https://github.com/yourusername/project1)
 
